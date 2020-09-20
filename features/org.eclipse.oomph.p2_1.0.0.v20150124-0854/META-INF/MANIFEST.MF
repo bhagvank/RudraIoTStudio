@@ -1,0 +1,38 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.7.0_51
+Built-By: genie.tools.oomph
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.0.5
+
+Name: epl-v10.html
+SHA1-Digest: hNPRR3joO5UV8+u/L0qjKV/Y2EE=
+
+Name: META-INF/maven/org.eclipse.oomph.features/org.eclipse.oomph.p2/p
+ om.xml
+SHA1-Digest: UcR1ZPxuujOo//0Ytgyc7snABpY=
+
+Name: rootfiles/about.html
+SHA1-Digest: mLkmRLtG3amkcY0I7KSYZX6qKhs=
+
+Name: rootfiles/notice.html
+SHA1-Digest: Z5WKoRSIDCgQNswUpOU/oSPE2a0=
+
+Name: META-INF/maven/org.eclipse.oomph.features/org.eclipse.oomph.p2/p
+ om.properties
+SHA1-Digest: Fmd2BantCbuUvxe0/szpNBMnE4k=
+
+Name: license.html
+SHA1-Digest: Z5WKoRSIDCgQNswUpOU/oSPE2a0=
+
+Name: rootfiles/epl-v10.html
+SHA1-Digest: hNPRR3joO5UV8+u/L0qjKV/Y2EE=
+
+Name: feature.properties
+SHA1-Digest: VpJXrP9rh1E0CWIKqV+Yhx0d3a8=
+
+Name: about.html
+SHA1-Digest: mLkmRLtG3amkcY0I7KSYZX6qKhs=
+
+Name: feature.xml
+SHA1-Digest: JzzMHn7tcolKMOGSYijzdG7FlOk=
+

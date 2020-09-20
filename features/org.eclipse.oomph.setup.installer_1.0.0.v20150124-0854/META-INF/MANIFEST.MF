@@ -1,0 +1,38 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.7.0_51
+Built-By: genie.tools.oomph
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.0.5
+
+Name: epl-v10.html
+SHA1-Digest: hNPRR3joO5UV8+u/L0qjKV/Y2EE=
+
+Name: META-INF/maven/org.eclipse.oomph.features/org.eclipse.oomph.setu
+ p.installer/pom.properties
+SHA1-Digest: IBTtDIEY0s4o6VEUEK+MRikK4rA=
+
+Name: icons/window-bad.ico
+SHA1-Digest: /KVSx8vyO8iZP5CyfhFmAGwyKVI=
+
+Name: META-INF/maven/org.eclipse.oomph.features/org.eclipse.oomph.setu
+ p.installer/pom.xml
+SHA1-Digest: aN/MjrIMq+7BjJpz1IpXnQPePek=
+
+Name: icons/window.icns
+SHA1-Digest: FLWb43NwsVRNYiqwagTPs1Zq84s=
+
+Name: feature.properties
+SHA1-Digest: Ruj5zpvXx7ASvCxJ1Np9ZlDnFzU=
+
+Name: icons/window.xpm
+SHA1-Digest: dAA+/2zueACviwDVZO+iVbsLbTM=
+
+Name: icons/window.ico
+SHA1-Digest: 2oIBGYUyXp5kJjsCfbT8YMIF2NE=
+
+Name: about.html
+SHA1-Digest: mLkmRLtG3amkcY0I7KSYZX6qKhs=
+
+Name: feature.xml
+SHA1-Digest: +ZOm6tsuAr70ynmQ6TXDRIkjnmI=
+
